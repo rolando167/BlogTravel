@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/BlogTravel/static/js/main.cc60132e.chunk.js",
-    "main.js.map": "/BlogTravel/static/js/main.cc60132e.chunk.js.map",
+    "main.js": "/BlogTravel/static/js/main.16c283db.chunk.js",
+    "main.js.map": "/BlogTravel/static/js/main.16c283db.chunk.js.map",
     "runtime-main.js": "/BlogTravel/static/js/runtime-main.20ffef47.js",
     "runtime-main.js.map": "/BlogTravel/static/js/runtime-main.20ffef47.js.map",
     "static/css/2.af3c1da9.chunk.css": "/BlogTravel/static/css/2.af3c1da9.chunk.css",
     "static/js/2.76135fae.chunk.js": "/BlogTravel/static/js/2.76135fae.chunk.js",
     "static/js/2.76135fae.chunk.js.map": "/BlogTravel/static/js/2.76135fae.chunk.js.map",
     "index.html": "/BlogTravel/index.html",
-    "precache-manifest.92f36dadba5c48ed232cb3253d89cb2b.js": "/BlogTravel/precache-manifest.92f36dadba5c48ed232cb3253d89cb2b.js",
+    "precache-manifest.838d9580c567e5bf799873de466f3859.js": "/BlogTravel/precache-manifest.838d9580c567e5bf799873de466f3859.js",
     "service-worker.js": "/BlogTravel/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/BlogTravel/static/css/2.af3c1da9.chunk.css.map",
     "static/js/2.76135fae.chunk.js.LICENSE.txt": "/BlogTravel/static/js/2.76135fae.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.20ffef47.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.76135fae.chunk.js",
-    "static/js/main.cc60132e.chunk.js"
+    "static/js/main.16c283db.chunk.js"
   ]
 }

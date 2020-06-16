@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6820770b70cb9765e9adc1fdd4647716",
+    "revision": "dfbf41e6f29f765ec89800fc51220818",
     "url": "/BlogTravel/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BlogTravel/static/js/2.76135fae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32058bec729372dfd7da",
-    "url": "/BlogTravel/static/js/main.cc60132e.chunk.js"
+    "revision": "7c09d79b7eb09edbe983",
+    "url": "/BlogTravel/static/js/main.16c283db.chunk.js"
   },
   {
     "revision": "270e62b9e7203b82c56d",
