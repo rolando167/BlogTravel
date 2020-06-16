@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/BlogTravel/static/js/main.b3b59514.chunk.js",
-    "main.js.map": "/BlogTravel/static/js/main.b3b59514.chunk.js.map",
+    "main.js": "/BlogTravel/static/js/main.bfa64869.chunk.js",
+    "main.js.map": "/BlogTravel/static/js/main.bfa64869.chunk.js.map",
     "runtime-main.js": "/BlogTravel/static/js/runtime-main.20ffef47.js",
     "runtime-main.js.map": "/BlogTravel/static/js/runtime-main.20ffef47.js.map",
     "static/css/2.af3c1da9.chunk.css": "/BlogTravel/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.3bfaea0a.chunk.js": "/BlogTravel/static/js/2.3bfaea0a.chunk.js",
-    "static/js/2.3bfaea0a.chunk.js.map": "/BlogTravel/static/js/2.3bfaea0a.chunk.js.map",
+    "static/js/2.6155c3ac.chunk.js": "/BlogTravel/static/js/2.6155c3ac.chunk.js",
+    "static/js/2.6155c3ac.chunk.js.map": "/BlogTravel/static/js/2.6155c3ac.chunk.js.map",
     "index.html": "/BlogTravel/index.html",
-    "precache-manifest.0cc18dccc7d79958329e9d7fecd7640f.js": "/BlogTravel/precache-manifest.0cc18dccc7d79958329e9d7fecd7640f.js",
+    "precache-manifest.b9aeca86a72dddde4a7ef2ba01c33fdd.js": "/BlogTravel/precache-manifest.b9aeca86a72dddde4a7ef2ba01c33fdd.js",
     "service-worker.js": "/BlogTravel/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/BlogTravel/static/css/2.af3c1da9.chunk.css.map",
-    "static/js/2.3bfaea0a.chunk.js.LICENSE.txt": "/BlogTravel/static/js/2.3bfaea0a.chunk.js.LICENSE.txt",
+    "static/js/2.6155c3ac.chunk.js.LICENSE.txt": "/BlogTravel/static/js/2.6155c3ac.chunk.js.LICENSE.txt",
     "static/media/slider-1.jpg": "/BlogTravel/static/media/slider-1.9e53b1f4.jpg",
     "static/media/slider-2.jpg": "/BlogTravel/static/media/slider-2.b37af482.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.20ffef47.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.3bfaea0a.chunk.js",
-    "static/js/main.b3b59514.chunk.js"
+    "static/js/2.6155c3ac.chunk.js",
+    "static/js/main.bfa64869.chunk.js"
   ]
 }
