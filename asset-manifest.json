@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.js": "/BlogTravel/static/js/main.1e99063d.chunk.js",
-    "main.js.map": "/BlogTravel/static/js/main.1e99063d.chunk.js.map",
+    "main.js": "/BlogTravel/static/js/main.c87574e0.chunk.js",
+    "main.js.map": "/BlogTravel/static/js/main.c87574e0.chunk.js.map",
     "runtime-main.js": "/BlogTravel/static/js/runtime-main.20ffef47.js",
     "runtime-main.js.map": "/BlogTravel/static/js/runtime-main.20ffef47.js.map",
     "static/css/2.af3c1da9.chunk.css": "/BlogTravel/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.76135fae.chunk.js": "/BlogTravel/static/js/2.76135fae.chunk.js",
-    "static/js/2.76135fae.chunk.js.map": "/BlogTravel/static/js/2.76135fae.chunk.js.map",
+    "static/js/2.28f9e688.chunk.js": "/BlogTravel/static/js/2.28f9e688.chunk.js",
+    "static/js/2.28f9e688.chunk.js.map": "/BlogTravel/static/js/2.28f9e688.chunk.js.map",
     "index.html": "/BlogTravel/index.html",
-    "precache-manifest.a49a3eac5120e5d4d687fb8e38944251.js": "/BlogTravel/precache-manifest.a49a3eac5120e5d4d687fb8e38944251.js",
+    "precache-manifest.74f38f2c7bdb7033ce2b8cbe87a3dc9a.js": "/BlogTravel/precache-manifest.74f38f2c7bdb7033ce2b8cbe87a3dc9a.js",
     "service-worker.js": "/BlogTravel/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/BlogTravel/static/css/2.af3c1da9.chunk.css.map",
-    "static/js/2.76135fae.chunk.js.LICENSE.txt": "/BlogTravel/static/js/2.76135fae.chunk.js.LICENSE.txt",
+    "static/js/2.28f9e688.chunk.js.LICENSE.txt": "/BlogTravel/static/js/2.28f9e688.chunk.js.LICENSE.txt",
     "static/media/slider-1.jpg": "/BlogTravel/static/media/slider-1.9e53b1f4.jpg",
-    "static/media/slider-2.jpg": "/BlogTravel/static/media/slider-2.b37af482.jpg"
+    "static/media/slider-2.jpg": "/BlogTravel/static/media/slider-2.b37af482.jpg",
+    "static/media/slider-3.jpg": "/BlogTravel/static/media/slider-3.a4b3515f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.20ffef47.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.76135fae.chunk.js",
-    "static/js/main.1e99063d.chunk.js"
+    "static/js/2.28f9e688.chunk.js",
+    "static/js/main.c87574e0.chunk.js"
   ]
 }
